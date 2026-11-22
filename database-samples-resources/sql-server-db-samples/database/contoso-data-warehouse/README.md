@@ -4,9 +4,6 @@ Loads data from a public Azure Storage Blob into the Contoso Retail Data Warehou
 
 <!-- Add a diagram if you have it -->
 
-![Alt text](/media/image-name.png "<Friendly name>")
-
-
 ### Contents
 
 [About this sample](#about-this-sample)<br/>
