@@ -1,0 +1,316 @@
+{
+  "format_version": 1,
+  "chunk_size_bytes": 47185920,
+  "files": [
+    {
+      "name": "FactInventory.csv",
+      "size_bytes": 437221081,
+      "sha256": "bba764b7bd245ccfc90f6a8811032c2d5d118c158037635699cb6be630783a6e",
+      "fragments": [
+        {
+          "path": "FactInventory.csv/part-000001.bin",
+          "size_bytes": 47185920,
+          "sha256": "da99ce8f227aa45765cb4d4747e022a3c6b8c38727fddb38d9f0f25825f2316f"
+        },
+        {
+          "path": "FactInventory.csv/part-000002.bin",
+          "size_bytes": 47185920,
+          "sha256": "187a7d31c49c78eadea8a992739f127d11300cbf0f7c61b81c9fe9a45ab45bb1"
+        },
+        {
+          "path": "FactInventory.csv/part-000003.bin",
+          "size_bytes": 47185920,
+          "sha256": "7d0508856d73f76a84d60f74b26a60679388d5f6e01cf08034eb3e39d9b2cf49"
+        },
+        {
+          "path": "FactInventory.csv/part-000004.bin",
+          "size_bytes": 47185920,
+          "sha256": "8eb71b755a17da3e9a3f35f97300f16a8495ed7f5ab75b4880f83c6f6385f953"
+        },
+        {
+          "path": "FactInventory.csv/part-000005.bin",
+          "size_bytes": 47185920,
+          "sha256": "8f64afb25d5890adfe0e3490c59e8515d8330c693ab139f14df497ca6a999d2f"
+        },
+        {
+          "path": "FactInventory.csv/part-000006.bin",
+          "size_bytes": 47185920,
+          "sha256": "d678eebb67c1530e06a9f640d385379bf423fc5d43bfabcd0800e140cf67289f"
+        },
+        {
+          "path": "FactInventory.csv/part-000007.bin",
+          "size_bytes": 47185920,
+          "sha256": "21b85fdb7a83d38de9030508c3b9bdd37adc2533f3ed7ac79aa3e3e11da60159"
+        },
+        {
+          "path": "FactInventory.csv/part-000008.bin",
+          "size_bytes": 47185920,
+          "sha256": "1cf39a9b6e2fd410bfc8627da83ec1fe14b94cfd2848ada07ac6def52f7aaa0a"
+        },
+        {
+          "path": "FactInventory.csv/part-000009.bin",
+          "size_bytes": 47185920,
+          "sha256": "91d8beceb193613771f3ac19fc99270845ba9e9466db1adbec26f1d674df2126"
+        },
+        {
+          "path": "FactInventory.csv/part-000010.bin",
+          "size_bytes": 12547801,
+          "sha256": "59e89d7ac1d79597ca2246006d5229bf226968eee7d57efdf02d1d6e5e9a6b5d"
+        }
+      ]
+    },
+    {
+      "name": "FactOnlineSales.csv",
+      "size_bytes": 1238785148,
+      "sha256": "cc486df4bac3a23cb2d122e74ea81ff10a737062b4e07754fc2bc8309ba5685f",
+      "fragments": [
+        {
+          "path": "FactOnlineSales.csv/part-000001.bin",
+          "size_bytes": 47185920,
+          "sha256": "f41c52e50299044a35182801a3780fc67299ba46e5e47360c0faf855b2776f7d"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000002.bin",
+          "size_bytes": 47185920,
+          "sha256": "63719303450341b5ba124985fc467d843d559c9f49efea6934c3aa1fd2f4757b"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000003.bin",
+          "size_bytes": 47185920,
+          "sha256": "7c32c56b8be7134221a5288bdb9e168f87e6903804f89c35c6362d41887d02f4"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000004.bin",
+          "size_bytes": 47185920,
+          "sha256": "759264b24fbb9a488eadae3b8a791ef1fe08ad35f57b33093c41d3b525e8ff2f"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000005.bin",
+          "size_bytes": 47185920,
+          "sha256": "bc0d42861ade74a0343a0c013db0b0b90c9179125766b65894c4e3422644b50a"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000006.bin",
+          "size_bytes": 47185920,
+          "sha256": "d27dffe1d693a3dae97de7c5c3ac7df2b47bb04708a27fe3ac3c9f5ba0eefe27"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000007.bin",
+          "size_bytes": 47185920,
+          "sha256": "a4f2d55882ef7131ee1a209461dbe649e1616a4f2aa7b0909ceb460ab2a08bd6"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000008.bin",
+          "size_bytes": 47185920,
+          "sha256": "8470b565d1f1d0d36c660809b8ba73c11e790e1ec70115f6052e9f56d109b62f"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000009.bin",
+          "size_bytes": 47185920,
+          "sha256": "bb3bc686040b54e173c4404bc1d53a3ba32300f1dfefe0f3d2feb6ae063a4020"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000010.bin",
+          "size_bytes": 47185920,
+          "sha256": "548019a090731fb16c6fd145b82b0fa3cd9429828b929859af6b05745b8d32ec"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000011.bin",
+          "size_bytes": 47185920,
+          "sha256": "d4d9cd524493ca78541011e843deb4d5e3025e0bc9560620f0b054268750cbe8"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000012.bin",
+          "size_bytes": 47185920,
+          "sha256": "6a4dc86ab1143f98f1f02e7123ff98cc166f7ae58b4492afacf91ba618bd969b"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000013.bin",
+          "size_bytes": 47185920,
+          "sha256": "2900333b3ec79b4f1c32ffe2b24ec142708f56395d61aa173d9abe778746f7f6"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000014.bin",
+          "size_bytes": 47185920,
+          "sha256": "b27f4958bbc0467738da6c4928ad4165970f1435f01b45d079b7ae45d8430a2f"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000015.bin",
+          "size_bytes": 47185920,
+          "sha256": "447bd7a3b7b20af5cd4556589a656d65644429d58a0e89c310a6a923cdb657dc"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000016.bin",
+          "size_bytes": 47185920,
+          "sha256": "b9edb54d06e4abbbdab0c5f80b06956979b8b7548aae24a65eb05f7f4e10bf1c"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000017.bin",
+          "size_bytes": 47185920,
+          "sha256": "7d1ec777b4bf21e92b51ef6ed3db616710e410d158b2755b914b646f0957118d"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000018.bin",
+          "size_bytes": 47185920,
+          "sha256": "8f698ba7b92ba5979702d0151ba4fcfe7a8c6bc8447a6292998f0f2222d0d33e"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000019.bin",
+          "size_bytes": 47185920,
+          "sha256": "a09bace2c227736df2915d3e14fb93b575954832f8217a9aa1b70fdbd8bae8c5"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000020.bin",
+          "size_bytes": 47185920,
+          "sha256": "dcf614e737efcd800cdfdf435a0bc352fc89bdf6eb42f733ee7e8d0747628abc"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000021.bin",
+          "size_bytes": 47185920,
+          "sha256": "c13e247f0a08f9177a0f911d97e6aac6a26ed9dfa26cf1a5b350eee3a2e5748a"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000022.bin",
+          "size_bytes": 47185920,
+          "sha256": "a276bab48597e6bb037dad6de67281dac6cb7d59b2c68b4e045062cf1d211057"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000023.bin",
+          "size_bytes": 47185920,
+          "sha256": "5f9cc81c50505d690ec650c5c621cb5010dfa2f8215d5456ab14e02a09eba66c"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000024.bin",
+          "size_bytes": 47185920,
+          "sha256": "209e5087edc03fbde9b563e28b9b83a564d49eb01f271933c70590d0080e8bc2"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000025.bin",
+          "size_bytes": 47185920,
+          "sha256": "67fbda80e5eb2e0061395053ae3ee2b77cb42beb976c49930f5ddd98347e166f"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000026.bin",
+          "size_bytes": 47185920,
+          "sha256": "6e0c34eb015402240c69f5e8ce1dc7c82f0fec7dc01e750f726b152c134df95b"
+        },
+        {
+          "path": "FactOnlineSales.csv/part-000027.bin",
+          "size_bytes": 11951228,
+          "sha256": "0ad297e12a57de24323774844e8469fcbc55fffe7f4ce33f9a46a965cd163aa5"
+        }
+      ]
+    },
+    {
+      "name": "FactSales.csv",
+      "size_bytes": 262590881,
+      "sha256": "10e8f551960bac77aa3d0be0340394141770cc29f31a1ae8bd120d689da5c345",
+      "fragments": [
+        {
+          "path": "FactSales.csv/part-000001.bin",
+          "size_bytes": 47185920,
+          "sha256": "d31e3c261974f5964904713dc28aa2c94e7840408786331b7bb5e915e888702b"
+        },
+        {
+          "path": "FactSales.csv/part-000002.bin",
+          "size_bytes": 47185920,
+          "sha256": "89584e1dbe98349ad4265ee8a440151e790ac88ce298a9fa58e05c1609979915"
+        },
+        {
+          "path": "FactSales.csv/part-000003.bin",
+          "size_bytes": 47185920,
+          "sha256": "fb524803c902c57084a6f1b81864a1f0c3a3d2e93f0f1426f91765978a6c0db4"
+        },
+        {
+          "path": "FactSales.csv/part-000004.bin",
+          "size_bytes": 47185920,
+          "sha256": "866ccff625e5f44acecefc2ff8e53e192cac7f4e46961e4c1ae407875b9b548c"
+        },
+        {
+          "path": "FactSales.csv/part-000005.bin",
+          "size_bytes": 47185920,
+          "sha256": "54d064ee0256107c3282fef13908affca9bf0002b6c2b130ddf66383e2baec9d"
+        },
+        {
+          "path": "FactSales.csv/part-000006.bin",
+          "size_bytes": 26661281,
+          "sha256": "9302b47e0cd932dcbebdea315641067c25c779a277bae978b105372b7bc2cca0"
+        }
+      ]
+    },
+    {
+      "name": "FactSalesQuota.csv",
+      "size_bytes": 421175210,
+      "sha256": "821fdb4d5e8096447a473e2b84d17faf90d0f292b2bf328894c261e6be9ef02c",
+      "fragments": [
+        {
+          "path": "FactSalesQuota.csv/part-000001.bin",
+          "size_bytes": 47185920,
+          "sha256": "826e773c37ef55035cbe18afe5c4f4ce0d485f0eb792283dd525cea58c8b42c5"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000002.bin",
+          "size_bytes": 47185920,
+          "sha256": "1304adca5023be5495c4643887a0c522eed29d9f6d1e443cdb8be8237b91490c"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000003.bin",
+          "size_bytes": 47185920,
+          "sha256": "0500b9e19d1e01443bbdab9c9ae945f8d587395f63fe53f3677a91ab1fd4008a"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000004.bin",
+          "size_bytes": 47185920,
+          "sha256": "f573af78b3c1996f26ddc9df695b95cd3300d6bad214492f86f04ac05aae03d0"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000005.bin",
+          "size_bytes": 47185920,
+          "sha256": "9e12608b6f44c5b684df2974eeddad6847ca04373640ba2e9465a80bfeb78417"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000006.bin",
+          "size_bytes": 47185920,
+          "sha256": "5b1f38e852cb60137f89eaab3bf191c9f1d271e1aa29b895a7cef7b81279e8b3"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000007.bin",
+          "size_bytes": 47185920,
+          "sha256": "5f9eff4eca4c33fde6d8d6e2a98356fbd8fd5a94e787c77f80f9c472697ece68"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000008.bin",
+          "size_bytes": 47185920,
+          "sha256": "6cc49cb83906ceeaf9bb699127d8d4c30d4762301d635f7ac7fa44e672edfbad"
+        },
+        {
+          "path": "FactSalesQuota.csv/part-000009.bin",
+          "size_bytes": 43687850,
+          "sha256": "2dcd99c55e0c7648c3423fb949dcd439048f521aee462cdd8a1450348ee3236a"
+        }
+      ]
+    },
+    {
+      "name": "FactStrategyPlan.csv",
+      "size_bytes": 115430569,
+      "sha256": "0541dd16e332081797ba4d9b5e3f3eb7c23aa8f53e86282e97eef9d142c57f91",
+      "fragments": [
+        {
+          "path": "FactStrategyPlan.csv/part-000001.bin",
+          "size_bytes": 47185920,
+          "sha256": "90016565731d371b02282b24291e8d9234f81db38a9a96d702b260835c23f94e"
+        },
+        {
+          "path": "FactStrategyPlan.csv/part-000002.bin",
+          "size_bytes": 47185920,
+          "sha256": "4bbe60e57c661e83938e0dca71f872f25f953199a2bae9c65c12fde03f4a592d"
+        },
+        {
+          "path": "FactStrategyPlan.csv/part-000003.bin",
+          "size_bytes": 21058729,
+          "sha256": "12b7d57460fbe0bc0b7b7b0b418d3e077baef48141becc16fcb443c854deecde"
+        }
+      ]
+    }
+  ]
+}
