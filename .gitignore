@@ -1,2 +1,6 @@
-/database-samples-resources/sql-server-db-samples/database/wide-world-importers-db/wwi-ss2016.bak/
-/database-samples-resources/sql-server-db-samples/database/wide-world-importers-db/wwi-ss2026.bak/
+# Ignore the database backup files
+*/database-samples-resources/sql-server-db-samples/database/wide-world-importers-db/wwi-ss2016.bak/
+*/database-samples-resources/sql-server-db-samples/database/wide-world-importers-db/wwi-ss2026.bak/
+*/Analytics-course-resources/01Excel-course-data-samples/business-case/Excel-prueba-tecnica/
+*/Analytics-course-resources\02Power-BI-course-data-samples\Pbi-PushDataset
+*/Analytics-course-resources\02Power-BI-course-data-samples\power_bi

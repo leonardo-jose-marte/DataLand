@@ -1,0 +1,30 @@
+Acerca del conjunto de datos
+Panel de control de Netflix usando Power BI, MySQL y Excel
+
+Este proyecto visualiza el catálogo de películas y series de Netflix para descubrir tendencias por año de estreno, género, país y audiencia.
+
+Conjunto de datos utilizado:
+Conjunto de datos
+de películas y series de Netflix https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Pasos a seguir:
+
+-Datos limpios y transformados en Excel (Texto a columnas para reparto, director, listed_in, país).
+
+-Divide el conjunto de datos en hojas de Excel normalizadas (títulos, reparto, directores, géneros, países, descripciones).
+
+-Importado a MySQL Workbench y reemplazado los espacios en blanco por NULL.
+
+-Se usaron consultas UNION para aplanar campos de país y género.
+
+-Conectó Power BI a MySQL para visualización de datos en tiempo real.
+
+Páginas del panel:
+
+1. Página de resumen: KPIs, valoraciones, géneros, disponibilidad global.
+
+2. Resumen del título único: Reparto, director, descripción, vista del mapa por país.
+
+Herramientas:
+
+Excel | MySQL | Power BI | SQL | DAX
