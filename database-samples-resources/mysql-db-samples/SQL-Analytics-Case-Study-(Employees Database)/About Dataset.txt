@@ -1,0 +1,4 @@
+Acerca del conjunto de datos
+Este conjunto de datos contiene la base de datos completa de empleados MySQL, un conjunto de datos de ejemplo ampliamente utilizado para aprender SQL, análisis de datos, inteligencia empresarial y diseño de bases de datos. Incluye información de los empleados, salarios, cargos, departamentos, directivos e historial de departamento, lo que la hace ideal para la práctica analítica en el mundo real.
+
+El conjunto de datos está estructurado en múltiples tablas que representan un entorno corporativo real, con registros de empleados que abarcan varias décadas. Los usuarios pueden practicar uniones SQL, funciones de ventana, agregación, CTEs, subconsultas, KPIs empresariales, análisis de RRHH, análisis de tendencias y más.
