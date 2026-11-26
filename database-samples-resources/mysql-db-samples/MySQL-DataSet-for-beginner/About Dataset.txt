@@ -1,0 +1,28 @@
+Acerca del conjunto de datos
+Conjunto de datos de práctica básica de MySQL
+Descripción general
+Este conjunto de datos contiene datos básicos de muestra diseñados para practicar 'consultas de base de datos MySQL y conceptos de gestión de bases de datos'. Es adecuado para principiantes que quieren aprender a trabajar con bases de datos relacionales y operaciones SQL.
+
+Descripción
+El conjunto de datos incluye tablas estructuradas simples que representan entidades comunes de la base de datos como usuarios, productos, pedidos o registros similares. Puede utilizarse para practicar:
+
+Consultas SQL básicas (SELECT, INSERT, UPDATE, DELETE)
+Filtrado y ordenado de datos
+Unións entre tablas
+Funciones de agregación (COUNT, SUM, AVG)
+Diseño de bases de datos y relaciones de tablas
+Propósito
+El propósito de este conjunto de datos es ayudar a los principiantes a entender cómo funcionan las bases de datos y cómo interactuar con los datos usando 'comandos MySQL'.
+
+Casos de uso
+Este conjunto de datos puede utilizarse para:
+
+Aprender MySQL y fundamentos de SQL
+Practicar consultas a bases de datos
+Conceptos de base de datos docentes
+Demuestra de estructuras de bases de datos relacionales
+Notas
+Este conjunto de datos contiene 'solo datos básicos de práctica' y no incluye ninguna información sensible o privada.
+
+Licencia
+Este conjunto de datos se comparte con fines educativos y de aprendizaje.
