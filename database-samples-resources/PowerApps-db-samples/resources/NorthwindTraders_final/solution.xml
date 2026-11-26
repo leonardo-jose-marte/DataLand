@@ -1,0 +1,119 @@
+<ImportExportXml version="9.1.0.5035" SolutionPackageVersion="9.1" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>NorthwindTraders</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Northwind Traders" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.6</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>DefaultPublisherorg1d4773d1</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Northwind Traders" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions>
+        <Description description="Default publisher for this organization" languagecode="1033" />
+      </Descriptions>
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>nwind</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>33294</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="nwind_categories" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_customers" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_employees" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_inventorytransactions" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_invoices" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_orderdetails" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_orders" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_products" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_purchaseorderdetails" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_purchaseorders" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_shippers" behavior="0" />
+      <RootComponent type="1" schemaName="nwind_suppliers" behavior="0" />
+      <RootComponent type="9" schemaName="nwind_inventorytransactiontypes" behavior="0" />
+      <RootComponent type="9" schemaName="nwind_orderdetailsstatus" behavior="0" />
+      <RootComponent type="9" schemaName="nwind_ordersstatus" behavior="0" />
+      <RootComponent type="9" schemaName="nwind_privileges" behavior="0" />
+      <RootComponent type="9" schemaName="nwind_purchaseorderstatus" behavior="0" />
+      <RootComponent type="29" id="{0c34cfe7-645a-4148-8774-177c9540daac}" behavior="0" />
+      <RootComponent type="29" id="{58fa4698-5c09-4458-a4d1-3f94329e662d}" behavior="0" />
+      <RootComponent type="29" id="{6f739d13-1686-448d-9eb5-9c27a247cb52}" behavior="0" />
+      <RootComponent type="29" id="{d9efc9a2-8bdc-4afe-9b9b-6cd2c53576fd}" behavior="0" />
+      <RootComponent type="60" id="{dfd00547-051d-4e9f-936b-c2e5c7b3809d}" behavior="0" />
+      <RootComponent type="62" schemaName="nwind_NorthwindOrdersModeldriven" behavior="0" />
+      <RootComponent type="80" schemaName="nwind_NorthwindOrdersModeldriven" behavior="0" />
+      <RootComponent type="300" schemaName="nwind_northwindorderscanvasbeginpart1_ff5ec" behavior="0" />
+      <RootComponent type="300" schemaName="nwind_northwindorderscanvasbeginpart2_b0296" behavior="0" />
+      <RootComponent type="300" schemaName="nwind_northwindorderscanvasbeginpart3_aafc0" behavior="0" />
+      <RootComponent type="300" schemaName="nwind_northwindorderscanvas_02efa" behavior="0" />
+      <RootComponent type="300" schemaName="nwind_northwindsampledata_24d3d" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required key="0" type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)" />
+        <Dependent key="1" type="80" schemaName="nwind_NorthwindOrdersModeldriven" displayName="Northwind Orders (Model-driven)" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>
