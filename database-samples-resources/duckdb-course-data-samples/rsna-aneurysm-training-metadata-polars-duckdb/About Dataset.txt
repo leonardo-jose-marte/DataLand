@@ -1,0 +1,9 @@
+## Acerca del conjunto de datos
+
+Este conjunto de datos ha sido extraído de los datos de entrenamiento proporcionados en la competición de detección de aneurismas RSNA.
+La granularidad de los datos se sitúa al nivel de cada archivo de todos los proporcionados en el directorio. `.dcm` `series` `train`
+Las etiquetas DICOM incluidas en este conjunto de datos son las que estarán disponibles en los datos de prueba durante la evaluación.
+
+`El código para generar este conjunto de datos se puede encontrar en la carpeta `src\`
+
+`detección de aneurismas RSNA (fuente): https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection`

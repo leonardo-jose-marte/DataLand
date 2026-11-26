@@ -1,0 +1,25 @@
+Acerca del conjunto de datos
+
+🚀 Descripción
+Ce dataset regroupe des informations consolidées sur les entreprises actives en Nouvelle-Calédonie, leurs établissements, et leur association à des magasins référencés sur le site prix.nc.
+
+El trabajo reposa sobre la colección, el nettoyage y la estructuración de varios juegos de datos issus de fuentes abiertas y contribuciones manuales.
+
+🧩 Tables principales (faits)
+Empresas : Información Générale sur l'Entreprise (rid7)
+establecementos : lieux d'activités d'une entreprise (ridet)
+magasins_prixnc : magasins recensés sur prix.nc, rattachés à un établissement
+📚 Tables de dimensions
+forme_juridique : dictionnaire des formes juridiques
+Actividad: nomenclatura APE / NAF (sección, división, libela)
+Provincia : Liste des provinces (Código + Libellé)
+Comune : Codes et noms des communes, rattachées à une province
+
+🔗 Relaciones entre las tablas
+Empresas → (PK)rid7
+establecimientos → (PK), (FK versus entreprisesridetrid7)
+magasins_prixnc → (PK), (FK vers etablissementsidridet)
+empresas, establissements → (FK vers communecode_commune)
+→ comunal (FK vers provincecode_province)
+entreprises, etablissements → (FK vers forme_juridiquecode_formjur)
+empresas, establissements → (FK vers activitécode_ape)
